@@ -4,20 +4,26 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        longestSub = 0
+
+        mySet = set()
+        myList = []
 
         for i in range(len(s)):
-            mySet = set()
-            mySet.add(s[i])
+            lengthSub = 0
+            for e in range(i, len(s)):
 
-            for e in range(i+1, len(s)):
-                if s[e] not in mySet:
-                    mySet.add(s[e])
-                else:
-                    longestSub = max(longestSub, len(mySet))
+                if s[e] in mySet:
+                    mySet.clear()
+                    myList.append(lengthSub)
                     break
 
-            longestSub = max(longestSub, len(mySet))
+                mySet.add(s[e])
+                lengthSub+=1
 
-        return longestSub
+            myList.append(lengthSub)
+
+        if myList:
+            return max(myList)
+        else:
+            return 0
                 
