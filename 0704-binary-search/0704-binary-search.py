@@ -8,7 +8,7 @@ class Solution(object):
         start = 0
         end = len(nums) - 1
 
-        while starts <= end:
+        while start <= end:
             
             mid = (end+start) // 2
 
