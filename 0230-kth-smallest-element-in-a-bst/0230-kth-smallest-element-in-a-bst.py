@@ -23,11 +23,10 @@ class Solution(object):
             dfs(root.right, arr)
         
         dfs(root,arr)
-        #[3, 1, 2, 4] k = 1
-        #sort
-        #[1,2,3,4]
-        sortArr = sorted(arr)
 
-        for i in range(k):
-            if i == k-1:
-                return sortArr[i]
+        sortArr = sorted(arr)
+        #[1,2,3,4] k = 1
+
+        return sortArr[k-1]
+
+       
