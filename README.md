@@ -10,6 +10,7 @@ Each folder contains my solution, approach, and any notes that helped me underst
 | ------- | ------- |
 | [0001-two-sum](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0001-two-sum/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0733-flood-fill](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0733-flood-fill/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,4 +23,16 @@ Each folder contains my solution, approach, and any notes that helped me underst
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0733-flood-fill](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0733-flood-fill/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0733-flood-fill](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0733-flood-fill/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0733-flood-fill](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0733-flood-fill/) | Easy |
 <!---LeetCode Topics End-->
