@@ -29,11 +29,13 @@ Each folder contains my solution, approach, and any notes that helped me underst
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0130-surrounded-regions/) | Medium |
+| [0207-course-schedule](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0207-course-schedule/) | Medium |
 | [0733-flood-fill](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0733-flood-fill/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0130-surrounded-regions/) | Medium |
+| [0207-course-schedule](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0207-course-schedule/) | Medium |
 | [0733-flood-fill](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0994-rotting-oranges/) | Medium |
 ## Matrix
@@ -46,4 +48,16 @@ Each folder contains my solution, approach, and any notes that helped me underst
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0130-surrounded-regions/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
