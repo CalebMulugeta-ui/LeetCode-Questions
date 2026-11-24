@@ -17,6 +17,7 @@ Each folder contains my solution, approach, and any notes that helped me underst
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0001-two-sum/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@ Each folder contains my solution, approach, and any notes that helped me underst
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +66,12 @@ Each folder contains my solution, approach, and any notes that helped me underst
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0207-course-schedule/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0981-time-based-key-value-store](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0981-time-based-key-value-store/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0981-time-based-key-value-store](https://github.com/CalebMulugeta-ui/LeetCode-Questions/tree/main/0981-time-based-key-value-store/) | Medium |
 <!---LeetCode Topics End-->
